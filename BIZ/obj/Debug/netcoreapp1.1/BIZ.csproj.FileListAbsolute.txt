@@ -1,0 +1,14 @@
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.deps.json
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.dll
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.AssemblyInfo.cs
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.pdb
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.csprojResolveAssemblyReference.cache
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.dll
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.pdb
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.deps.json
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.dll
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\bin\Debug\netcoreapp1.1\BIZ.pdb
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.dll
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\BIZ\obj\Debug\netcoreapp1.1\BIZ.pdb

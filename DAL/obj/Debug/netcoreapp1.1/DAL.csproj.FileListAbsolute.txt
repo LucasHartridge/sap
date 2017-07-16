@@ -1,0 +1,14 @@
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.dll
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfo.cs
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.csprojResolveAssemblyReference.cache
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.dll
+c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.pdb
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.dll
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.dll
+C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.pdb
