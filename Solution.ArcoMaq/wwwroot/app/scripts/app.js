@@ -38,7 +38,9 @@ app.run(['$rootScope', '$location', '$cookieStore', '$http', '$window',
             // redirect to login page if not logged in
             if ($location.path() !== '/usuariologin' && !$rootScope.usuario.email) {
                 if ($location.path() !== '/usuariocrear') {
-                    $location.path('usuariologin');
+                    if ($location.path() !== '/home') {
+                        $location.path('usuariologin');
+                    }
                 }
             }
             if (($location.path() == '/usuariologin' || $location.path() == '/usuariocrear') && $rootScope.usuario.email) {

@@ -12,25 +12,21 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot/app\content\images\Logaster_logo_example_es.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="wwwroot\app\content\css\app.css" />
     <Content Include="wwwroot\app\content\css\app.min.css" />
     <Content Include="wwwroot\app\content\css\bootstrap-extended.css" />
     <Content Include="wwwroot\app\content\css\bootstrap-extended.min.css" />
-    <Content Include="wwwroot\app\content\css\bootstrap-theme.css" />
-    <Content Include="wwwroot\app\content\css\bootstrap-theme.css.map" />
-    <Content Include="wwwroot\app\content\css\bootstrap-theme.min.css" />
-    <Content Include="wwwroot\app\content\css\bootstrap-theme.min.css.map" />
     <Content Include="wwwroot\app\content\css\bootstrap.css" />
     <Content Include="wwwroot\app\content\css\bootstrap.css.map" />
     <Content Include="wwwroot\app\content\css\bootstrap.min.css" />
     <Content Include="wwwroot\app\content\css\bootstrap.min.css.map" />
     <Content Include="wwwroot\app\content\css\colors.css" />
     <Content Include="wwwroot\app\content\css\colors.min.css" />
-    <Content Include="wwwroot\app\content\css\flag-icon.css" />
-    <Content Include="wwwroot\app\content\css\flag-icon.min.css" />
-    <Content Include="wwwroot\app\content\css\icomoon.css" />
     <Content Include="wwwroot\app\content\css\pace.css" />
-    <Content Include="wwwroot\app\content\css\starter-template.css" />
     <Content Include="wwwroot\app\content\css\vertical-menu.css" />
     <Content Include="wwwroot\app\content\css\vertical-menu.min.css" />
     <Content Include="wwwroot\app\content\css\vertical-overlay-menu.css" />
@@ -571,8 +567,9 @@
     <Content Include="wwwroot\app\content\fonts\icomoon\icomoon.svg" />
     <Content Include="wwwroot\app\content\fonts\icomoon\icomoon.ttf" />
     <Content Include="wwwroot\app\content\fonts\icomoon\icomoon.woff" />
-    <Content Include="wwwroot\app\content\images\city.jpg" />
-    <Content Include="wwwroot\app\content\images\LogoArcoMaq.jpg" />
+    <Content Include="wwwroot\app\content\images\LogoArcoMaqDark.png" />
+    <Content Include="wwwroot\app\content\images\LogoArcoMaqLightGrande.png" />
+    <Content Include="wwwroot\app\content\images\LogoArcoMaqLightMedio.png" />
     <Content Include="wwwroot\app\controllers\bitacoracontroller.js" />
     <Content Include="wwwroot\app\controllers\controllers.js" />
     <Content Include="wwwroot\app\controllers\usuariocontroller.js" />

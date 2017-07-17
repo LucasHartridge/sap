@@ -3,8 +3,8 @@
 angular.module('arcomaqapp')
  
 .factory('AuthenticationService',
-    ['Base64', '$http', '$cookieStore', '$rootScope', '$timeout',
-    function (Base64, $http, $cookieStore, $rootScope, $timeout) {
+    ['Base64', '$http', '$cookieStore', '$rootScope', '$timeout','$cookies',
+    function (Base64, $http, $cookieStore, $rootScope, $timeout,$cookies) {
         var service = {};
 
         //service.Login = function (username, password, callback) {
@@ -40,7 +40,7 @@ angular.module('arcomaqapp')
  
         service.ClearCredentials = function () {
             $rootScope.usuario = {};
-            $cookieStore.remove('usuario');
+            $cookieStore.remove("usuario");
             $http.defaults.headers.common.Authorization = 'Basic ';
         };
  

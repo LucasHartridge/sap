@@ -5,6 +5,13 @@ C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\
 C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.AssemblyInfo.cs
 C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.dll
 C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.pdb
+D:\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.deps.json
+D:\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.dll
+D:\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.pdb
+D:\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.csprojResolveAssemblyReference.cache
+D:\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.AssemblyInfo.cs
+D:\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.dll
+D:\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.pdb
 C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.deps.json
 C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.dll
 C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.pdb

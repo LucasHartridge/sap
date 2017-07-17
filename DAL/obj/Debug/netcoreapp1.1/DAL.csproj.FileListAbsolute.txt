@@ -5,6 +5,13 @@ c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\bin\De
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.csprojResolveAssemblyReference.cache
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.dll
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.pdb
+D:\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
+D:\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.dll
+D:\Solution.ArcoMaq\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
+D:\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.csprojResolveAssemblyReference.cache
+D:\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfo.cs
+D:\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.dll
+D:\Solution.ArcoMaq\DAL\obj\Debug\netcoreapp1.1\DAL.pdb
 C:\ProyectosGit\sap\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
 C:\ProyectosGit\sap\DAL\bin\Debug\netcoreapp1.1\DAL.dll
 C:\ProyectosGit\sap\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
