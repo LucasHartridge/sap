@@ -1,19 +1,10 @@
-﻿(function () {
-    'use strict';
-
-    angular
-        .module('app')
-        .controller('bitacoracontroller', bitacoracontroller);
-
-    bitacoracontroller.$inject = ['$location'];
-
-    function bitacoracontroller($location) {
-        /* jshint validthis:true */
-        var vm = this;
-        vm.title = 'bitacoracontroller';
-
-        activate();
-
-        function activate() { }
+﻿app = angular.module('arcomaqapp')
+app.controller('bitacoraController', ['$scope', '$rootScope', '$http', 'bitacoraService', function ($scope, $rootScope, $http, svc) {
+    $scope.bitacoras = [];
+    $scope.obtenerBitacoras = function () {
+        svc.obtenerBitacoras().then(function (resp) {
+            $scope.bitacoras = resp.data;
+        })
     }
-})();
+}]);
+

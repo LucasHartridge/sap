@@ -1,0 +1,26 @@
+﻿<div>
+    <button ng-click="obtenerBitacoras()">Obtener datos</button>
+    <div class="table-responsive">
+        <table id="example" class="table mb-0">
+            <thead>
+                <tr>
+                    <th>Id Bitacora</th>
+                    <th>Usuario</th>
+                    <th>Tipo Evento</th>
+                    <th>Descripcion Evento</th>
+                    <th>Fecha</th>
+                </tr>
+            </thead>
+            <tbody ng-repeat="item in bitacoras">
+                <tr>
+                    <td>{{item.id}}</td>
+                    <td>{{item.usuario.email}}</td>
+                    <td>{{item.tipoEvento}}</td>
+                    <td>{{item.descripcionEvento}}</td>
+                    <td>{{item.fecha}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+

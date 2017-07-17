@@ -43,7 +43,15 @@ namespace DAL
         {
             var _collection = Database.GetCollection<T>(typeof(T).Name);
             var filter = Builders<T>.Filter.Eq("Email", Email);
-            var result = _collection.Find(filter).Single();
+            var result = _collection.Find(filter).SingleOrDefault();
+            return result;
+        }
+
+        public T GetOneByDNI<T>(string DNI)
+        {
+            var _collection = Database.GetCollection<T>(typeof(T).Name);
+            var filter = Builders<T>.Filter.Eq("DNI", DNI);
+            var result = _collection.Find(filter).SingleOrDefault();
             return result;
         }
 

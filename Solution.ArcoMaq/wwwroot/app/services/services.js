@@ -17,38 +17,30 @@ angular.module('arcomaqapp')
                 data: usuario 
             }).then(function successCallback(response) {
                 callback(response);
-
             }, function errorCallback(response) {
-
+                callback(response);
             });
-
-            //$http.get("/api/usuarioapi/login", username,password)
-            //$http.post('/api/usuarioapi/crearUsuario', { email: username, password: password })
-            //    .success(function (response) {
-            //        callback(response);
-            //    });
 
         };
  
-        service.SetCredentials = function (username, password) {
-            var authdata = Base64.encode(username + ':' + password);
+        service.SetCredentials = function (email, password) {
+            var authdata = Base64.encode(email + ':' + password);
  
-            $rootScope.globals = {
-                currentUser: {
-                    username: username,
-                    authdata: authdata
-                }
+            $rootScope.usuario = {
+                email: email,
+                authdata: authdata
             };
- 
+
             $http.defaults.headers.common['Authorization'] = 'Basic ' + authdata; // jshint ignore:line
-            $cookieStore.put('globals', $rootScope.globals);
-            $rootScope.globals = $cookieStore.get('globals');
-            $rootScope.usuario = $rootScope.globals.currentUser.username;
+
+            $cookieStore.put('usuario', $rootScope.usuario);
+            $rootScope.usuario = $cookieStore.get('usuario');
+
         };
  
         service.ClearCredentials = function () {
-            $rootScope.globals = {};
-            $cookieStore.remove('globals');
+            $rootScope.usuario = {};
+            $cookieStore.remove('usuario');
             $http.defaults.headers.common.Authorization = 'Basic ';
         };
  

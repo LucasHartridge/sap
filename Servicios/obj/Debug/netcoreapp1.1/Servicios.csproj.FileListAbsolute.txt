@@ -1,0 +1,14 @@
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.deps.json
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.dll
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\bin\Debug\netcoreapp1.1\Servicios.pdb
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.csprojResolveAssemblyReference.cache
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.AssemblyInfo.cs
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.dll
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Servicios\obj\Debug\netcoreapp1.1\Servicios.pdb
+C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.deps.json
+C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.dll
+C:\ProyectosGit\sap\Servicios\bin\Debug\netcoreapp1.1\Servicios.pdb
+C:\ProyectosGit\sap\Servicios\obj\Debug\netcoreapp1.1\Servicios.csprojResolveAssemblyReference.cache
+C:\ProyectosGit\sap\Servicios\obj\Debug\netcoreapp1.1\Servicios.AssemblyInfo.cs
+C:\ProyectosGit\sap\Servicios\obj\Debug\netcoreapp1.1\Servicios.dll
+C:\ProyectosGit\sap\Servicios\obj\Debug\netcoreapp1.1\Servicios.pdb

@@ -15,9 +15,12 @@ namespace Solution.ArcoMaq.Controllers
     {
         // GET: api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        [Route("obtenerUsuarios")]
+        public IActionResult Get()
         {
-            return new string[] { "value1", "value2" };
+            var DAL = new DataAccess();
+            var usuarios = DAL.GetAll<Usuario>();
+            return Ok(usuarios);
         }
 
         // GET api/values/5
@@ -30,18 +33,31 @@ namespace Solution.ArcoMaq.Controllers
         // POST api/values
         [HttpPost]
         [Route("crearUsuario")]
-        public void Post([FromBody] Usuario usuario)
+        public IActionResult Post([FromBody] Usuario usuario)
         {
             var DAL = new DataAccess();
             usuario.PasswordHash = "123";
-            DAL.Create<Usuario>(usuario);
-
-            var bitacora = new Bitacora();
-            bitacora.TipoEvento = "Creacion nuevo usuario";
-            bitacora.DescripcionEvento = "Se ha creado un nuevo usuario";
-            bitacora.Fecha = DateTime.Now;
-            bitacora.Usuario = usuario;
-            DAL.Create<Bitacora>(bitacora);
+            var bizUsuarioPorEmail = DAL.GetOneByEmail<Usuario>(usuario.Email);
+            var bizUsuarioPorDNI = DAL.GetOneByDNI<Usuario>(usuario.DNI);
+            if (bizUsuarioPorEmail == null)
+            {
+                if (bizUsuarioPorDNI == null)
+                {
+                    DAL.Create<Usuario>(usuario);
+                    var bitacora = new Bitacora();
+                    bitacora.TipoEvento = "Creacion nuevo usuario";
+                    bitacora.DescripcionEvento = "Se ha creado un nuevo usuario";
+                    bitacora.Fecha = DateTime.Now;
+                    bitacora.Usuario = usuario;
+                    DAL.Create<Bitacora>(bitacora);
+                    return Ok();
+                }
+                else
+                {
+                    return BadRequest("ErrorDNI");
+                }
+            }
+            return BadRequest("ErrorEmail");
         }
 
         [HttpPost]
@@ -51,13 +67,20 @@ namespace Solution.ArcoMaq.Controllers
         {
             var DAL = new DataAccess();
             var bizUsuario = DAL.GetOneByEmail<Usuario>(usuario.Email);
-            if (bizUsuario.Password == usuario.Password)
+            if (bizUsuario != null)
             {
-                return Ok();
+                if (bizUsuario.Password == usuario.Password)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return BadRequest("ErrorPassword");
+                }
             }
             else
             {
-                return Ok();
+                return BadRequest("ErrorEmail");
             }
         }
 

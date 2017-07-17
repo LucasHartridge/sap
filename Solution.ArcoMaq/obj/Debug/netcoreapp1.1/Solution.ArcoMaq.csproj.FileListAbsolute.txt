@@ -11,16 +11,20 @@ c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\Solution.A
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\DAL.pdb
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.dll
 c:\users\nahue\documents\visual studio 2017\Projects\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.pdb
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.deps.json
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.runtimeconfig.json
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.runtimeconfig.dev.json
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.dll
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.pdb
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\BIZ.dll
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\DAL.dll
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\BIZ.pdb
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\DAL.pdb
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.csprojResolveAssemblyReference.cache
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.AssemblyInfo.cs
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.dll
-C:\Users\lucas\Desktop\Solution.ArcoMaq\Solution.ArcoMaq\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.pdb
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Servicios.dll
+C:\Users\Nahue\Documents\Visual Studio 2017\Projects\Solution.ArcoMaq\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Servicios.pdb
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.deps.json
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.runtimeconfig.json
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.runtimeconfig.dev.json
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.dll
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Solution.ArcoMaq.pdb
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\BIZ.dll
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\DAL.dll
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Servicios.dll
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\BIZ.pdb
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\ProyectosGit\sap\Solution.ArcoMaq\bin\Debug\netcoreapp1.1\Servicios.pdb
+C:\ProyectosGit\sap\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.csprojResolveAssemblyReference.cache
+C:\ProyectosGit\sap\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.AssemblyInfo.cs
+C:\ProyectosGit\sap\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.dll
+C:\ProyectosGit\sap\Solution.ArcoMaq\obj\Debug\netcoreapp1.1\Solution.ArcoMaq.pdb
